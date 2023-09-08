@@ -1,0 +1,4 @@
+# Ignore system files and directories
+proc/
+sys/
+tmp/
